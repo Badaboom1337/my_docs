@@ -15,3 +15,24 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+# MkDocs Documentation Project
+
+## Опис проєкту
+Цей сайт створений за допомогою MkDocs — інструменту для генерації документації з Markdown файлів.
+
+---
+
+## Що тут є
+
+- Локальний сервер для перегляду змін
+- Автоматична генерація HTML
+- Підтримка структури сторінок
+- Просте розгортання на GitHub Pages
+
+---
+
+## Як запустити проєкт
+
+### 1. Встановлення
+```bash
+python -m pip install mkdocs mkdocs-material
