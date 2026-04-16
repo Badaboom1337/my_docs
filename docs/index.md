@@ -15,23 +15,31 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
-# MkDocs Documentation Project
+# Dev Docs Starter Kit
 
-## Опис проєкту
-Цей сайт створений за допомогою MkDocs — інструменту для генерації документації з Markdown файлів.
+## 🚀 Про проєкт
 
----
+Це стартовий шаблон документаційного сайту на базі **MkDocs + Material Theme**.
 
-## Що тут є
-
-- Локальний сервер для перегляду змін
-- Автоматична генерація HTML
-- Підтримка структури сторінок
-- Просте розгортання на GitHub Pages
+Він показує, як швидко створювати та публікувати технічну документацію.
 
 ---
 
-## Як запустити проєкт
+## 🧠 Що таке MkDocs
+
+MkDocs — це інструмент, який перетворює Markdown файли у статичний сайт.
+
+### Основна ідея:
+- пишеш Markdown
+- запускаєш команду
+- отримуєш сайт
+
+---
+
+## ⚙️ Встановлення
+
+```bash
+python -m pip install mkdocs mkdocs-material
 
 ### 1. Встановлення
 ```bash
